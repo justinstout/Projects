@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Robot
+  - Alien
+  - GoToGame
+  - Weapon
+  - Ammocrate
+  - AmmoCrateUI
+  - Enemy
+  - ObjectToPurchase
+  - EmptyEnemy
+  - GoToMainMenu
+  - bullet
+  - OptionsBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Barricade
+  - Player
+  - bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1753774377
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 4059847229
+    locked: 0
+  - name: TextUI
+    uniqueID: 346247055
+    locked: 0

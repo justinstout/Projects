@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 77294bcf0c69a47969511bb5f6c6da54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2676159555221356526
+    second: ufo_0
+  - first:
+      213: -2199306989489832512
+    second: ufo_1
+  - first:
+      213: 2250811097118728341
+    second: ufo_2
+  - first:
+      213: 8051841465924602776
+    second: ufo_3
+  - first:
+      213: 1213142655871200412
+    second: ufo_4
+  - first:
+      213: -7847734609975052293
+    second: ufo_5
+  - first:
+      213: -8063045658762582104
+    second: ufo_6
+  - first:
+      213: -6128667472846951180
+    second: ufo_7
+  - first:
+      213: -7532146308865455728
+    second: ufo_8
+  - first:
+      213: -5778161369101660221
+    second: ufo_9
+  - first:
+      213: -4444941582165194561
+    second: ufo_10
+  - first:
+      213: -2510468340105279501
+    second: ufo_11
+  - first:
+      213: 4747277132908753834
+    second: ufo_12
+  - first:
+      213: -356332493196511208
+    second: ufo_13
+  - first:
+      213: -1596778162088189489
+    second: ufo_14
+  - first:
+      213: -8815726916127551927
+    second: ufo_15
+  - first:
+      213: -778369655999763789
+    second: ufo_16
+  - first:
+      213: 5977664864051322127
+    second: ufo_17
+  - first:
+      213: -6009068958709116411
+    second: ufo_18
+  - first:
+      213: 1251840456232039768
+    second: ufo_19
+  - first:
+      213: 9128521831597885218
+    second: ufo_20
+  - first:
+      213: 8895143011681148104
+    second: ufo_21
+  - first:
+      213: 3207190842844482532
+    second: ufo_22
+  - first:
+      213: -1509605044474652422
+    second: ufo_23
+  - first:
+      213: -2352115181863377241
+    second: ufo_24
+  - first:
+      213: -2092061768545340285
+    second: ufo_25
+  - first:
+      213: 915357663096880434
+    second: ufo_26
+  - first:
+      213: -5517972630221293851
+    second: ufo_27
+  - first:
+      213: -3547599122043323196
+    second: ufo_28
+  - first:
+      213: 5557609706691323408
+    second: ufo_29
+  - first:
+      213: 406341809029143195
+    second: ufo_30
+  - first:
+      213: -1187650693289787620
+    second: ufo_31
+  - first:
+      213: 3022361330889573160
+    second: ufo_32
+  - first:
+      213: -3952166536884153157
+    second: ufo_33
+  - first:
+      213: -223038372628017624
+    second: ufo_34
+  - first:
+      213: 2521489758831573996
+    second: ufo_35
+  - first:
+      213: -8629542072215936015
+    second: ufo_36
+  - first:
+      213: -4070822677711616376
+    second: ufo_37
+  - first:
+      213: -4004908991039586124
+    second: ufo_38
+  - first:
+      213: -3653444978728180338
+    second: ufo_39
+  - first:
+      213: 8340268955105555294
+    second: ufo_40
+  - first:
+      213: 3173770398887247318
+    second: ufo_41
+  - first:
+      213: -6090662233351697551
+    second: ufo_42
+  - first:
+      213: -4120934646621028677
+    second: ufo_43
+  - first:
+      213: -5423817405402567433
+    second: ufo_44
+  - first:
+      213: -8338078053510889208
+    second: ufo_45
+  - first:
+      213: -6744207616546313057
+    second: ufo_46
+  - first:
+      213: 1992846530444154410
+    second: ufo_47
+  - first:
+      213: 3762080406577929013
+    second: ufo_48
+  - first:
+      213: -6125320192418679928
+    second: ufo_49
+  - first:
+      213: -889961193318213326
+    second: ufo_50
+  - first:
+      213: 9162358450725287170
+    second: ufo_51
+  - first:
+      213: 3421465756933025250
+    second: ufo_52
+  - first:
+      213: 7802204032382927620
+    second: ufo_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ufo_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4554
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37975bb23f3db4ac3a7cc0bf34d4d7d0
+      internalID: 2676159555221356526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 4554
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc467c7d1e5824456bbbd5d90ae8c8b0
+      internalID: -2199306989489832512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_2
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 4554
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e531157503b49349d7950bb4e2327d
+      internalID: 2250811097118728341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_3
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 4554
+        width: 346
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e59f285fe240e68ce0b345b417f71
+      internalID: 8051841465924602776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_4
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 4554
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375f45119ffe4dd797ad5d2657978cf
+      internalID: 1213142655871200412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4120
+        width: 349
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615db63280a8e4c88888f72e8274bdc1
+      internalID: -7847734609975052293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 4123
+        width: 346
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea43fe3e96ef44da79a2b88fc9bdd197
+      internalID: -8063045658762582104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_7
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4125
+        width: 352
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef145b0d1eece450babfcd6a7ab37a56
+      internalID: -6128667472846951180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_8
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 4125
+        width: 354
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b1c3c57d1d4e8490ab0c3840580d5
+      internalID: -7532146308865455728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_9
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 4125
+        width: 351
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3aae4508b046779ceede45f9e7fe3
+      internalID: -5778161369101660221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3690
+        width: 354
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73ba5e5e9f44d17b3ab47c65659df8
+      internalID: -4444941582165194561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3690
+        width: 354
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cc06bb747d483aa0e030f93562526
+      internalID: -2510468340105279501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3690
+        width: 354
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956d4fcf35ebf44f997181538787f4d6
+      internalID: 4747277132908753834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_13
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3690
+        width: 351
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d79397683494c20a47f6bbf70fd0f2
+      internalID: -356332493196511208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_14
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3690
+        width: 351
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ff80d67f33141ee84326ee4abc72bd
+      internalID: -1596778162088189489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3254
+        width: 351
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb869ecef3d5d429b9efbb607bc519aa
+      internalID: -8815726916127551927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3254
+        width: 354
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061380ec55610450699d038f4eb71441
+      internalID: -778369655999763789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3254
+        width: 354
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851d816c5adfd474dbb519f1bbc418ad
+      internalID: 5977664864051322127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_18
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3254
+        width: 354
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c5534cabe62407b84ee1e41608e351
+      internalID: -6009068958709116411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_19
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3252
+        width: 351
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce76793cf68d4aba84eb99382a1babf
+      internalID: 1251840456232039768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2816
+        width: 351
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530673077bccb4fc5b042c9b026f2468
+      internalID: 9128521831597885218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2814
+        width: 353
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7777d06cabf244f8bbdf3596335ecd1
+      internalID: 8895143011681148104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_22
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2809
+        width: 351
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3fb1d362e04bfa8c38bd262cae3e0
+      internalID: 3207190842844482532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_23
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2804
+        width: 349
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7593fd0f3a5045a69b84dd98b095d2c
+      internalID: -1509605044474652422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_24
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2800
+        width: 349
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064c6a4350284dafb83c2e2fc4f07ec
+      internalID: -2352115181863377241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2357
+        width: 346
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af646f8cd2f7e45d289b0f996697ba92
+      internalID: -2092061768545340285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2350
+        width: 345
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf0f2c535d2943bf9607b69f025ef94
+      internalID: 915357663096880434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2348
+        width: 342
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daafc63c5286a4c3f9f6999007d48703
+      internalID: -5517972630221293851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_28
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2343
+        width: 342
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa7cfde2254e45128d2a2b55ca578ac
+      internalID: -3547599122043323196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_29
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2341
+        width: 340
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decfc784d2db943de87b30b850b51676
+      internalID: 5557609706691323408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1905
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfe92adacc444d2b551657dac7ec52
+      internalID: 406341809029143195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1905
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8412f921d0a7440e9332c0974a5326c
+      internalID: -1187650693289787620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1905
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da22a46c41f64958bdbeec39ed80b4c
+      internalID: 3022361330889573160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_33
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1903
+        width: 337
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7899be779d4ce29837c8b2936e270
+      internalID: -3952166536884153157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_34
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1905
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd293c004074634bd5c0215c122ae7
+      internalID: -223038372628017624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1467
+        width: 339
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc613d34a674493b7d75e82d33b437
+      internalID: 2521489758831573996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_36
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1467
+        width: 339
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf30703724994470bdb138d26f00282
+      internalID: -8629542072215936015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_37
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1467
+        width: 339
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4879a359c248e0a25b37f1aba8dc4
+      internalID: -4070822677711616376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_38
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1469
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2b39ef16c64d12b1209e410d699bb
+      internalID: -4004908991039586124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_39
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1470
+        width: 340
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168803c3a1e884961ace9b70b3dafbaf
+      internalID: -3653444978728180338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1036
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef61c07781c354b23b153b8583908de5
+      internalID: 8340268955105555294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_41
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1039
+        width: 340
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a346a50a4304d92b70e8b0eceb740d
+      internalID: 3173770398887247318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_42
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1043
+        width: 340
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2c2d49769b4e48aa20a4899467a13
+      internalID: -6090662233351697551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_43
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1048
+        width: 342
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c53445f7d7e4024a747cc41272a463
+      internalID: -4120934646621028677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_44
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1055
+        width: 344
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c447f7e3a34d9580645b2480618c1
+      internalID: -5423817405402567433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 624
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb3db8a692e4d90914b0a459e23348
+      internalID: -8338078053510889208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 624
+        width: 344
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55313f15ccbea486db27984cda227d96
+      internalID: -6744207616546313057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_47
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 626
+        width: 344
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d030397ea568640e49c730976c0ff8ff
+      internalID: 1992846530444154410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_48
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 629
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073bda6bc1d94af9b388dacb52a3f43
+      internalID: 3762080406577929013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_49
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 629
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd2dcd65bed74c389ade0681d9210fe
+      internalID: -6125320192418679928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081ef594e6774dc48349692f2cf5baf
+      internalID: -889961193318213326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 193
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cdde43ec11b4827a68055aba60f032
+      internalID: 9162358450725287170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_52
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 193
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018a616c88154d67856dd6a8e25591b
+      internalID: 3421465756933025250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_53
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 193
+        width: 344
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cde1f5fd39e4f6ea927c9e7dee6f9d
+      internalID: 7802204032382927620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
